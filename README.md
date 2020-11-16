@@ -26,14 +26,13 @@
 <ul>
 <li>A customers can view items of the restaurant </li>
 <li>A customer can check the prices of the food items</li>
-<li>A video walkthrough to the restaurant to chceck decoration and enviornment</li>
+<li>A video walkthrough to the restaurant to check decoration and enviornment</li>
 <li>Contact form to register and give feedback about food</li>
-<li>Offer section &ndash; latest exclusive offers will be shown</li>
-<li>Real- time chat with Restaurant</li>
+<li>Offer section &ndash; latest exclusive offers will be shown here</li>
+<li>Real- time chat with Treatex</li>
 </ul>
 <p><strong>TECHNOLOGY</strong></p>
 <p>We decided to go with latest technologies for developing this application in order to give users a better experience.</p>
-<p>&nbsp;</p>
 <p><em>Frontend and Backend</em></p>
 <p>For the UI we will be using HTML, CSS, JavaScript and React and redux. This enables cross platform development which allows the web app to be compatible with both PC and mobile platforms. It also gives a more premium user interface and smoother experience.</p>
 <p><em>Database</em></p>
