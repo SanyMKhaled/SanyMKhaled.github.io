@@ -12,16 +12,14 @@
 <p align="center"><strong><u>Member-1</u></strong><u>:</u></p>
 <p align="center"><strong>Name</strong><strong>:</strong> Sany Mohammad Khaled</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1711853042</p>
-<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:sany.khaled@northsouth.edu">sany.khaled@northsouth.edu</
-<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/WasekRahman/SU19CSE299S16G07NSU/">#</a></p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:sany.khaled@northsouth.edu">sany.khaled@northsouth.edu</p>
+<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="">#</a></p>
 <p align="center"><strong>Date Prepared</strong><strong>: </strong>16/11/2020</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p> </br> </br>
 <p><strong>INTRODUCTION</strong></p>
-<p>In today’s world, Food has become more than just a necessity. The restaurant business has become more challenging, and competitive day by day.  Designing a restaurant business means committing responsibilities such as providing excellent service, quality food, and a fantastic atmosphere, taking a lot of time and money. We often see their business fall apart after doing all this because people usually don’t know about it. There is nothing where people can know anything about the restaurant.
-  My goal is to make a web application where people can know more about the restaurant. From anywhere, they can check the details about the restaurant, what service they provide, where the restaurant is located, and many more. People can also give reviews on food items.
-
-</p>
+<p>In today’s world, Food has become more than just a necessity. The restaurant business has become more challenging, and competitive day by day.  Designing a restaurant business means committing responsibilities such as providing excellent service, quality food, and a fantastic atmosphere, taking a lot of time and money. We often see their business fall apart after doing all this because people usually don’t know about it. There is nothing where people can know anything about the restaurant. </p> </br>
+  <p> My goal is to make a web application where people can know more about the restaurant. From anywhere, they can check the details about the restaurant, what service they provide, where the restaurant is located, and many more. People can also give reviews on food items. </p>
 <p> Treatex is a web application built with the latest technologies for the potential customers of the restaurant.
 </p>
 <p><strong>FEATURES</strong></p>
