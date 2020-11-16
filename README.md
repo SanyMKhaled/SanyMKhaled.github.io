@@ -36,7 +36,7 @@
 <p><em>Frontend and Backend</em></p>
 <p>For the UI we will be using HTML, CSS, JavaScript and React and redux. This enables cross platform development which allows the web app to be compatible with both PC and mobile platforms. It also gives a more premium user interface and smoother experience.</p>
 <p><em>Database</em></p>
-<p>I will be using JSON server ans Rest Api which provides high performance, availability and automatic scaling.
+<p>I will be using JSON server ans Rest Api which provides high performance, availability and automatic scaling. </p>
 <p>I will integrate a real-time chatting system using React hooks and socket.io </p>
 <p>To keep up with the modern forms of technology we would be using additional technologies to ensure complete user satisfaction. </p>
 <p>&nbsp;</p>
