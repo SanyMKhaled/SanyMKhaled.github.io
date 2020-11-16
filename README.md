@@ -6,7 +6,7 @@
 <p align="center"><strong>Project Proposal</strong></p>
 <p align="center"><strong>Group No</strong>: </p>
 <p align="center"><strong>Fall 2020</strong></p>
-<p align="center"><strong>Project Name</strong>:Restaurant App</p>
+<p align="center"><strong>Project Name</strong>: Treatex Restaurant</p>
 <p align="center"><strong>Course No</strong>: CSE 299 <strong>Sec</strong><strong>:</strong> 02</p>
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
 <p align="center"><strong><u>Member-1</u></strong><u>:</u></p>
@@ -16,11 +16,14 @@
 <p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/WasekRahman/SU19CSE299S16G07NSU/">#</a></p>
 <p align="center"><strong>Date Prepared</strong><strong>: </strong>16/11/2020</p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p> </br> </br>
 <p><strong>INTRODUCTION</strong></p>
-<p>We learn more about an academic institute by keeping track of their graduates. It is because of these graduates that such an institute grow in the first place. Unfortunately, North South University does not have a system to keep in touch with its graduates. As a result, we are losing track of the valuable and well respected alumni of North South University. To ensure that this does not happen, we have come up with NSU Alumni Portal.</p>
-<p>Our mission is to connect all existing alumni no matter where they are in this world with internet connection. Each alumnus can create their own profile and keep it updated to date with their educational and professional information enabling access to various forms of networking. You can also search up any registered alumnus and contact them when necessary.</p>
-<p>NSU Alumni Portal is a web application built with the latest technologies, promising North South University&rsquo;s alumni to be associated with the community.</p>
+<p>In today’s world, Food has become more than just a necessity. The restaurant business has become more challenging, and competitive day by day.  Designing a restaurant business means committing responsibilities such as providing excellent service, quality food, and a fantastic atmosphere, taking a lot of time and money. We often see their business fall apart after doing all this because people usually don’t know about it. There is nothing where people can know anything about the restaurant.
+  My goal is to make a web application where people can know more about the restaurant. From anywhere, they can check the details about the restaurant, what service they provide, where the restaurant is located, and many more. People can also give reviews on food items.
+
+</p>
+<p> Treatex is a web application built with the latest technologies for the potential customers of the restaurant.
+</p>
 <p><strong>FEATURES</strong></p>
 <ul>
 <li>Easy signup process using the student&rsquo;s NSU email address</li>
